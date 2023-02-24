@@ -9,7 +9,7 @@ function Interests() {
         <section>
         
             <h3 className="text-heading">Interests</h3>
-            <p className="text-content interest-text">Follower of Jesus. BA in Music. Average chess player. Sleeping expert. Camping aficionado. Lego Master Builder. Breakfast cook. Bike path explorer. Great Lakes lover.</p>
+            <p className="text-content interest-text">Follower of Jesus. Cat herder. BA in Music. Average chess player. Sleeping expert. Camping aficionado. Lego Master Builder. Breakfast cook. Bike path explorer. Great Lakes lover.</p>
         
         </section>
         
